@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nur Aleya Natasha</h1>
 <h3 align="center">A passionate software engineer and developer from Malaysia</h3>
 
-- 🔭 I’m currently working on [FixMyCity: An Infrastructure Complaint System](https://github.com/Tharshen2124/software-design-backend)
-
-- 🔭 I’m currently working on [Algorithm Comparison Tool](https://github.com/damiaalyssa/Algorithm-Analysis)
-
-- 🔭 I’m currently working on [Sentiment Analysis: Boston Airbnb](https://github.com/Leon-0320/ML-Assignment)
+- 🔭 I’m currently working on [FixMyCity: An Infrastructure Complaint System](https://github.com/Tharshen2124/software-design-backend), [Algorithm Comparison Tool](https://github.com/damiaalyssa/Algorithm-Analysis), [Sentiment Analysis: Boston Airbnb](https://github.com/Leon-0320/ML-Assignment)
 
 - 🌱 I’m currently learning **Machine Learning, Flask, Node.JS, PostgreSQL**
 
