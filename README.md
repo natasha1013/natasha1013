@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [FixMyCity: An Infrastructure Complaint System](https://github.com/Tharshen2124/software-design-backend)
 
-- 🌱 I’m currently learning **Machine Learning, Flask, Node.JS, PostgreSQL**
-
 - 🔭 I’m currently working on [Algorithm Comparison Tool](https://github.com/damiaalyssa/Algorithm-Analysis)
 
 - 🔭 I’m currently working on [Sentiment Analysis: Boston Airbnb](https://github.com/Leon-0320/ML-Assignment)
+
+- 🌱 I’m currently learning **Machine Learning, Flask, Node.JS, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/natasha1013](https://github.com/natasha1013)
 
